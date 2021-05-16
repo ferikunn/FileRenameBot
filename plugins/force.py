@@ -53,12 +53,12 @@ async def text(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/Mai_bOTs'),
-                    InlineKeyboardButton('Feedback', url='https://t.me/No_OnE_Kn0wS_Me')
+                    InlineKeyboardButton('Support Channel', url='https://t.me/hanyabotferi'),
+                    InlineKeyboardButton('PEMILIK', url='https://t.me/xflicks')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/Mai_bOTs/17'),
-                    InlineKeyboardButton('Source', url='https://github.com/No-OnE-Kn0wS-Me/FileRenameBot')
+                    InlineKeyboardButton('BOT LAIN', url='https://t.me/hanyabotferi/35'),
+                    InlineKeyboardButton('GRUB', url='https://t.me/masukajaudhh')
                 ]
             ]
         ),
